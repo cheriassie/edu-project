@@ -1,0 +1,11 @@
+$color-white: #FFFFFF;
+$color-black: #141024;
+$color-black-2: #141024B2;
+$color-red: #D52027;
+
+
+$color-primary: $color-black;
+$color-secondary: $color-white;
+
+.color-primary { color: $color-primary; }
+.color-secondary { color: $color-secondary; }
